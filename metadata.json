@@ -1,0 +1,10 @@
+{
+  "name": "Vitalora AI",
+  "description": "Smarter Care. Better Lives. - Next-generation AI-powered smart healthcare ecosystem with intelligent assistant, live hospital twin, queue predictor, and comprehensive management.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
